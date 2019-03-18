@@ -37,9 +37,7 @@ public class Task3_DateDifference {
         sw.getInfo();
         sw.isLeapYear();
         sw.getCentury();
-        
         System.out.println();
-        
         sw2.getInfo();
         sw2.isLeapYear();
         sw2.getCentury();
