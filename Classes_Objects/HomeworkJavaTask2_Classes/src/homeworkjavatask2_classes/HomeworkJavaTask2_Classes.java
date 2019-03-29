@@ -16,6 +16,7 @@ public class HomeworkJavaTask2_Classes {
      */
     public static void main(String[] args) {
        
+       
         Person person = new Person("Biser",28);
         person.getDescription();
     }
