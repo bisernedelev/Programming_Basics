@@ -16,6 +16,7 @@ public class Task1a_CreateArray {
         
         for (int i = 0; i < m.length; i++) {
             System.out.println(m[i]);
+        
         }
     }
 }
