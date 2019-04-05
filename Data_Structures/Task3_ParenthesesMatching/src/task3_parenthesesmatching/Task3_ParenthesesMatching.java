@@ -57,5 +57,4 @@ public class Task3_ParenthesesMatching {
         }
         System.out.println("true");
     }
-
 }
